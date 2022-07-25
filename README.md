@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zeioux</h1>
-<h3 align="center">Apprentice js developer</h3>
+<h3 align="center">Apprentice js developer and a little Web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeioux&label=Profile%20views&color=0e75b6&style=flat" alt="zeioux" /> </p>
 
