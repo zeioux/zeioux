@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/zeioux?tab=repositories](https://github.com/zeioux?tab=repositories)
 
-- 📫 How to reach me **! ! Iguro Obama#0001**
+- 📫 How to reach me **zeioux**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
