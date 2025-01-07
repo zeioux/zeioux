@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zeioux</h1>
-<h3 align="center">Apprentice discord.js developer and a little Web developer</h3>
+<h3 align="center">🎓 Student in Cyber Security and Dev</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeioux&label=Profile%20views&color=0e75b6&style=flat" alt="zeioux" /> </p>
-
-- 🔭 I’m currently working on **a web site**
 
 - 👨‍💻 All of my projects are available at [https://github.com/zeioux?tab=repositories](https://github.com/zeioux?tab=repositories)
 
